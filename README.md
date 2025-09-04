@@ -20,7 +20,7 @@ The dataset can be downloaded from [weld defect dataset](https://github.com/huan
 #train
 python train_dual.py
 #test
-python test_dual.py
+python val_dual.py
 ```
 
 
