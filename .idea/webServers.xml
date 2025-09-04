@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b97fd0f1-636e-482a-8f1c-64f83a52fb5e" name="yolo">
+        <fileTransfer accessType="SFTP" host="172.21.7.105" port="22" sshConfigId="c6d3da58-19c6-41c0-9267-d194a6eb220c" sshConfig="ilab@172.21.7.105:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

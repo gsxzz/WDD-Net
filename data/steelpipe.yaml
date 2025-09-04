@@ -1,0 +1,6 @@
+train: ../datasets/yolo_large/images/train  # train images (relative to 'path') 118287 images
+val: ../datasets/yolo_large/images/train # val images (relative to 'path') 5000 images
+test: ../datasets/yolo_large/images/train  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+# Classes
+names:
+  0: defect
